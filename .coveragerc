@@ -1,0 +1,6 @@
+[report]
+include =
+    src/cgis/*
+omit =
+    */test*
+    */upgrades/*
